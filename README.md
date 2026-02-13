@@ -1,1 +1,1 @@
-TTS using gTTs
+TTS using gTTs,edge_tts,pyttsx3
